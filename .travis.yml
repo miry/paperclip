@@ -3,7 +3,7 @@ rvm:
   - jruby-19mode
   - rbx-2
   - 2.0.0
-  - 2.1.1
+  - 2.1.2
 
 install:
   - "travis_retry bundle install"
